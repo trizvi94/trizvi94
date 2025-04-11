@@ -1,10 +1,12 @@
 # Taha | Data Scientist | AI Enthusiast | Lifelong Learner
 
-Hi, I’m Taha. I have a **Master's in Data Science** from the **University of Southampton, UK**, and have gained valuable experience at **Infosys**, **Accenture**, and **Teradata**. My focus is on using data science and **generative AI** to help organizations solve real-world problems and make better decisions.
+Hi, I’m Taha, a **Data Scientist** sharing my journey and learnings in the tech world. Over the years, I’ve gained valuable experience working with **Infosys**, **Accenture**, and **Teradata**, where I've applied **data science** and **generative AI** to tackle real-world problems and help organizations make better decisions.
 
-I work with tools like **Python**, **SQL**, and **Power BI** to analyze data, build models, and deliver insights that drive business results. Right now, I’m focused on **data science** projects and exploring the possibilities within **AI**.
+I hold a **Master's in Data Science** from the **University of Southampton, UK**, which has further fueled my passion for exploring innovative ways to use data for meaningful impact.
 
-I’m always open to learning new skills and approaches, and I believe growth comes from continuous improvement and tackling new challenges. Whether it's working with teams or diving into new technologies, I’m looking for opportunities where I can contribute and continue developing.
+I work with tools like **Python**, **SQL**, and **Power BI** to analyze data, build models, and deliver insights that drive business results. Currently, I’m diving deep into **AI** and **data science** projects, always looking for new opportunities to learn, grow, and contribute.
+
+I’m constantly expanding my skill set because I believe growth comes through continuous learning and tackling new challenges. Whether collaborating with teams or exploring new technologies, I’m focused on developing and contributing to innovative projects.
 
 ## 🔧 Core Skills
 
