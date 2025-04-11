@@ -63,6 +63,12 @@ Also a huge **cricket fan** — I love the strategy and excitement behind the ga
 
 ---
 
+## 🏆 GitHub Trophies  
+
+![](https://github-profile-trophy.vercel.app/?username=trizvi94&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 ### ✍️ Random Dev Quote  
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
